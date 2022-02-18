@@ -1,3 +1,5 @@
+> This repository is archived. The tool has been completely reworked in the meantime and now has a different name - the reworked variant is now called zffanalyze and can be found at https://github.com/ph0llux/zffanalyze.
+
 # zffmetareader
 
 ```zffmetareader``` is a command line utility to read the metadata of a zff image.
